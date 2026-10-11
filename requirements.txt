@@ -1,0 +1,6 @@
+ipykernel
+pandas
+requests
+bs4
+pyyaml
+pillow
